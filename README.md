@@ -11,6 +11,9 @@ Due to COVID-19, people are no longer able to travel around the U.S.. To better 
 
 <img width="1496" alt="Screenshot 2024-03-16 at 7 34 16 AM" src="https://github.com/ameyagidh/TripPlannerWebsite/assets/65457905/49827e86-8702-47f3-9a8c-9b32db927697">
 
+<img width="872" alt="Screenshot 2024-03-16 at 7 44 51 AM" src="https://github.com/ameyagidh/TripPlannerWebsite/assets/65457905/e1ed870c-a1c3-420f-ae52-aa00ae3feaf7">
+
+
 - The website displays famous tourist places and an embedded Google Maps of San Francisco on the homepage.
 - Users can select tourist sights and add them to their planner.
 - Selected places are pinned on the embedded Google Maps.
