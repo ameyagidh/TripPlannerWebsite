@@ -5,6 +5,9 @@ Due to COVID-19, people are no longer able to travel around the U.S.. To better 
 
 ### Design:
 
+
+![aaa](https://github.com/ameyagidh/TripPlannerWebsite/assets/65457905/233a5822-c36e-4f03-b183-1fd8d17ea4c9)
+
 <img width="1496" alt="Screenshot 2024-03-16 at 7 33 36 AM" src="https://github.com/ameyagidh/TripPlannerWebsite/assets/65457905/9b092dfd-6ad5-4e96-887d-f2412c6d957e">
 
 <img width="1496" alt="Screenshot 2024-03-16 at 7 34 03 AM" src="https://github.com/ameyagidh/TripPlannerWebsite/assets/65457905/9b06aad2-67cd-4fe1-9883-a61600b8efd5">
