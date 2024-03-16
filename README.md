@@ -1,7 +1,4 @@
-# TripPlanner
 # Trip Advisor - Travel Planner
-
-## Design Background
 
 ### Motivation:
 Due to COVID-19, people are no longer able to travel around the U.S.. To better serve people with interests in traveling after the pandemic, our team plans to design and create a user-friendly web application for travelers to easily make visualized travel plans as well as interact with other travelers.
